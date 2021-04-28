@@ -1,5 +1,7 @@
 # Covid-19-Detection-on-Chest-X-Ray-with-Deep-Learning
 
+## NOTE THAT!!! WE ARE USING THAT DATA ONLY EDUCATIONAL PURPOSES...
+
 ### In this project I used deep learning algorithm and pythorch.
 
 ### Before begin to project I used chest x-ray dataset on kaggle here it's address https://www.kaggle.com/tawsifurrahman/covid19-radiography-database 
